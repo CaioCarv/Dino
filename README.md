@@ -1,2 +1,0 @@
-# Dino
- Joguinho do Dinossauro 🦕 
